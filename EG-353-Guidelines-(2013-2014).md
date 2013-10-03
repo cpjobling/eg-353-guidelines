@@ -6,7 +6,7 @@
 
 * Prof Michael Edwards (C2EC)
 * Dr David Isaac (MRC),
-* Dr Paul Williams (MNC)
+* Dr Paul Williams (SPEC)
 
 ## EG-353 Assessment Components. (30 credits) #
 
@@ -108,7 +108,7 @@ The presentation and defence session will last 30 minutes per student and will t
 
 ## Communications
 
-The Blackboard Research project site should be referred to constantly for updates and announcements. E-mails from Dr Chris Jobling  (EG-353 coordinator), and the research centre project coordinators Prof Michael Edwards (C2EC), Dr David Isaacs (MRC) and Dr Paul Williams (MNC) are relevant to all students and should be noted and recorded for future reference.
+The Blackboard Research project site should be referred to constantly for updates and announcements. E-mails from Dr Chris Jobling  (EG-353 coordinator), and the research centre project coordinators Prof Michael Edwards (C2EC), Dr David Isaacs (MRC) and Dr Paul Williams (SPEC) are relevant to all students and should be noted and recorded for future reference.
 
 
 ## Footnotes
