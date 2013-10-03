@@ -1,0 +1,13 @@
+*.tex
+*.pdf
+*.aux
+*.idx
+*.html
+*.ist
+*.log
+*.glo
+*.gls
+*.dvi
+*.glg
+*.out
+
